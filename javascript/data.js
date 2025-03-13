@@ -192,7 +192,7 @@ export const aboutHTML = (num) => {
                     <a href="mailto:strachana0104@gmail.com">strachana0104@gmail.com</a>
                     <p>(248) 413-7462</p>
                     <a class="icon" href="https://github.com/TX701" target="_blank" draggable="false"><i class="bx bxl-github"></i></a>
-                    <a class="icon" href="https://www.linkedin.com/in/rory-strachan-a56216356/" target="_blank" draggable="false"><i class="bx bxl-linkedin-square" ></i></i></a>
+                    <a class="icon" href="https://www.linkedin.com/in/rory-strachan-a56216356/" target="_blank" draggable="false"><i class="bx bxl-linkedin-square" ></i></a>
                     </div>
                 </div>
                 <img src="./assets/profile.png" alt="" draggable="false"/>
